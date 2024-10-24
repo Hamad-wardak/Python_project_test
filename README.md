@@ -14,24 +14,29 @@ This project contains multiple exercises with python. For example:
 - Recurssion
 
 ## what is if and else lopp:
+![Figure-2-1](https://github.com/user-attachments/assets/9c71347d-9986-4f3a-91ff-51b35cd84afb)
 
 
-![Figure-2-1](https://github.com/user-attachments/assets/8a5ada64-3287-4645-8c58-d04ee0433218)
+
 
 ## what is  Reular expression ?
+![img004 regular](https://github.com/user-attachments/assets/141967f2-457f-40dd-b834-c7e0842dbfbb)
 
-![img004 regular](https://github.com/user-attachments/assets/dbd6ffbe-92f0-4dd9-92a4-293386cc6987)
 ## prime umbers & non-prime numbers in math
-![Prime-Number](https://github.com/user-attachments/assets/89294e87-ec51-49d6-840f-e5be783a24e4)
-![eb73f56a795027eee1cbf9e6b2716312](https://github.com/user-attachments/assets/76e21494-ed8d-4899-b4aa-e84121920846)
+![Prime-Number](https://github.com/user-attachments/assets/7d41253b-6c7f-482e-8903-e27ad18fe8af)
+![eb73f56a795027eee1cbf9e6b2716312](https://github.com/user-attachments/assets/23528a53-8b78-45ca-8843-b3076f15b152)
+
+
 
 
 ## what is Fibonacci ?
-![maxresdefault fibo 2](https://github.com/user-attachments/assets/006d6528-ddc7-432c-9dbc-3ff71d7af7a1)
-![maxresdefault fibo](https://github.com/user-attachments/assets/f7a54eca-6b27-4a79-8e3a-b4eaf6197cc9)
+![maxresdefault fibo 2](https://github.com/user-attachments/assets/4346c63a-b5b1-4f8b-9c7e-acdac5aff0b6)
+![maxresdefault fibo](https://github.com/user-attachments/assets/23f39f86-cda7-4b8d-a996-e249b36617ee)
+
 
 ## Factorial in Math:👇
-![Factorail](https://github.com/user-attachments/assets/35d880f0-3a39-4282-a903-a5e8be583fe3)
+![Factorail](https://github.com/user-attachments/assets/f7d5ea30-4051-412b-aa81-dd9b73eec7c5)
+
 
 ## Authors
 
